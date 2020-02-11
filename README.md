@@ -1,4 +1,4 @@
-# SNS_Assignment
+# Secure File Transfer Using 3DES Algorithm
 Repository contains Assignments for Systems &amp; Network Security
 
 System for transfering File Using 3DES Encrytion Algorithm.
